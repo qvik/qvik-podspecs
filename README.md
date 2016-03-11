@@ -14,8 +14,8 @@ source 'https://github.com/qvik/qvik-podspecs.git'
 
 The following pods are available:
 
-- TBA; pod project urls
-- 
+- https://github.com/qvik/qvik-swift-ios
+- https://github.com/qvik/qvik-network-ios
 
 ## Contact
 
