@@ -16,6 +16,7 @@ The following pods are available:
 
 - https://github.com/qvik/qvik-swift-ios
 - https://github.com/qvik/qvik-network-ios
+- https://github.com/qvik/qvik-cloudinary-ios
 
 ## Contact
 
